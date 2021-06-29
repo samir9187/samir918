@@ -1,4 +1,4 @@
-Hi there, This side Samir Kunwra. 👋
+Hi there, This side Samir Kunwar. 👋
 samir9187/samir918 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
